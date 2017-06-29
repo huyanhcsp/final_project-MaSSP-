@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Final_project\\Checkpoints\\model.bin"
+all_model_checkpoint_paths: "D:\\Final_project\\Checkpoints\\model.bin"
